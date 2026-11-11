@@ -1,0 +1,1 @@
+To run the program, go to HelloWorld.java and run clicking the arrow from the ide.
